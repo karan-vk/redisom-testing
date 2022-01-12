@@ -4,7 +4,7 @@ import SearchForm from "../lib/SearchForm";
 export default function Home(props) {
 	return (
 		<main>
-			<h1>Create a Car</h1>
+			<h1>Create a Cars</h1>
 			<CarForm />
 			<hr />
 			<h1>Find a Car</h1>
